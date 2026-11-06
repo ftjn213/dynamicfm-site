@@ -31,6 +31,9 @@ h1 { font-size: 30px; line-height: 1.3; margin: 0 0 8px; }
 h2 { font-size: 19px; margin: 32px 0 8px; }
 .meta { color: var(--muted); font-size: 14px; margin-top: 0; }
 .lead { font-size: 18px; color: var(--muted); }
+.download { margin: 20px 0 8px; }
+.button { display: inline-block; padding: 10px 20px; border-radius: 10px; background: var(--accent); color: #fff; font-weight: 600; text-decoration: none; }
+.button:hover { filter: brightness(1.08); }
 ul { padding-left: 20px; }
 li { margin-bottom: 6px; }
 dt { font-weight: 600; margin-top: 16px; }
